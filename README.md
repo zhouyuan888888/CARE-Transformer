@@ -1,4 +1,4 @@
-# CARE Transformer: Mobile-Friendly Linear Visual Transformer via Decoupled Dual Interaction, CVPR 2025
+# CARE Transformer: Mobile-Friendly Linear Visual Transformer via Decoupled Dual Interaction
 
 <table align="center">
   <tr>
